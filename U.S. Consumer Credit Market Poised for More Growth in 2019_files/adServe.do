@@ -1,0 +1,8 @@
+var adContent = '';
+adContent += '<!-- AdPlacement : ipinseafinanceldrb -->' + '\n';
+adContent += '<!-- Oath SSP BannerAd DspId:0, SeatId:10827, DspCrId:passback-3628 -->' + '\n';
+adContent += '<i' + 'mg src="https://ap-southeast-1.onemobile.yahoo.com/admax/adEvent.do?tidi=770829437&amp;sitepid=222925&amp;posi=937933&amp;grp=%3F%3F%3F&amp;nl=1560853283865&amp;rts=1560853283751&amp;pix=1&amp;et=1&amp;a=ba953a5fac7943bf879c21c1c4a09fb8&amp;m=aXAtMTAtMjItMTM4LTgx&amp;b=MTA4Mjc7QVBBQyAtIEFkWCBQYXNzYmFjazs_Pz87Ozs7Oy0x&amp;xdi=Q2hyb21lIC0gV2luZG93c3w_Pz98TlQgMTAuMHwxNw..&amp;xoi=MHxJTkQ.&amp;brxdPublisherId=25225873693&amp;brxdSiteId=292561&amp;brxdSectionId=68989061&amp;dety=5" style="display:none;width:1px;height:1px;border:0;" width="1" height="1" alt=""/>' + '\n';
+adContent += '<scr' + 'ipt async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr' + 'ipt> <ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-6785382607161389" data-ad-slot="1481641241" data-page-url="https://finance.yahoo.com/news/u-consumer-credit-market-poised-110000604.html"> </ins> <scr' + 'ipt> (adsbygoogle = window.adsbygoogle || []).push({params: {google_allow_expandable_ads: false}}); </scr' + 'ipt> <iframe height="1" width="1" style="display: none;" scrolling="no" allowtransparency="true" src="https://s.yimg.com/ja/ap/ssp_cookie_sync/apac.html"></iframe>' + '\n';
+adContent += '<scr' + 'ipt type="text/javascript" src="https://ads.yahoo.com/get-user-id?ver=2&n=153601&ts=1560853283&sig=af996d1d6e7e7736&gdpr=0&gdpr_consent="></scr' + 'ipt>' + '\n';
+adContent += '<!-- Ads by - Optimized by AdMax from NEXAGE - Tuesday, June 18, 2019 6:21:23 AM EDT -->' + '\n';
+document.write(adContent);
